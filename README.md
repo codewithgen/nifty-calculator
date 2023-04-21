@@ -8,7 +8,7 @@ I created the nifty calculator to help me count all the coins in my piggy bank. 
  - [Technology](/#Technology)
  - [Screenshot](/#Screenshot)
  - [What I learnt](/#WhatILearnt)
- - [Code Reference](/#codeReference)
+ - [Deployment](/#Deployment)
 
 
 
@@ -31,7 +31,7 @@ I created this cute calculator for my personal use with the help of youtuber [We
 
 ## What I learn
 
-In this project, I used a lot this statements. I have a basic understand of how that can be used and applied. 
+In this project, I used a lot 'this' statements. I have a basic understand of how that can be used and applied. 
 
 
 
