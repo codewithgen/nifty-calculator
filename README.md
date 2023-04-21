@@ -36,7 +36,7 @@ In this project, I used a lot this statements. I have a basic understand of how 
 
 
 ## Deployment
-I deployed by website by using Netlify
+I deployed by website by using [Netlify](https://nitfy-cal-gen.netlify.app/)
 
 
 
